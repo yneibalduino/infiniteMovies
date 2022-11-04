@@ -3,7 +3,9 @@ export default {
     WHITE: '#FFFFFF',
 
     RED: '#690000',
-    RED_400: '#CC4F4F',
+    RED_400: '#DA1A37',
+
+    BLACK: '#171721',
 
     GRAY_100: '#CCCCCE',
     GRAY_200: '#C3C8D4',
