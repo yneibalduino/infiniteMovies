@@ -9,7 +9,7 @@ export default {
 
     GRAY_100: '#CCCCCE',
     GRAY_200: '#C3C8D4',
-    GRAY_400: '#8B8989'
+    GRAY_400: '#8B8989',
   },
   FONT_SIZE: {
     SM: 14,
