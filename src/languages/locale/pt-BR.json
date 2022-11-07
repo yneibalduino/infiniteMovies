@@ -1,0 +1,27 @@
+{
+  "error": {},
+  "translation": {
+    "REGION": "BR",
+    "REGION_MASK": "pt-BR",
+    "PROFILES": {
+      "BUTTON": {
+        "MOVIES": "Filmes",
+        "SERIES": "Series",
+        "BUSCAR": "Buscar",
+        "UPCOMING": "Em breve",
+        "WATCH": "Assistir",
+        "POPULAR": "Em alta",
+        "NOWWATCH": "Assistindo agora",
+        "CONTINUEWATCH": "Continue assistindo",
+        "TOPPOPULAR": "Mais populares",
+        "TOPRATED": "Melhores notas",
+        "RELEASES": "Lançamentos"
+    },
+    "TITLE": {
+      "SEARCHFORWATCH": "Encontre o que assistir",
+      "MOVEORSERIENAME": "Nome do filme ou série",
+      "UPCOMING": "Próximos Lançamentos"
+    }
+    }
+  }
+}

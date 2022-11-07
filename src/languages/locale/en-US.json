@@ -1,0 +1,27 @@
+{
+  "error": {},
+  "translation": {
+    "REGION": "US",
+    "REGION_MASK": "en-US",
+    "PROFILES": {
+      "BUTTON": {
+        "MOVIES": "Movies",
+        "SERIES": "Series",
+        "BUSCAR": "Search",
+        "UPCOMING": "Up coming",
+        "WATCH": "Watch",
+        "POPULAR": "Most viewed",
+        "NOWWATCH": "Now watching",
+        "CONTINUEWATCH": "Continue watching",
+        "TOPPOPULAR": "Most popular",
+        "TOPRATED": "Top rated",
+        "RELEASES": "Releases"
+    },
+    "TITLE": {
+      "SEARCHFORWATCH": "Search for watch",
+      "MOVEORSERIENAME": "Movie or serie name",
+      "UPCOMING": "Up coming"
+    }
+    }
+  }
+}

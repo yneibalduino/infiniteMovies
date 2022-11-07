@@ -2,6 +2,7 @@ import { StatusBar } from 'expo-status-bar';
 import { Text } from 'react-native';
 import { ThemeProvider } from 'styled-components';
 
+import './src/languages';
 import theme from './src/theme';
 
 export default function App() {
